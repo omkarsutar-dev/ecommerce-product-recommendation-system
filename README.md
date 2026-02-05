@@ -1,13 +1,13 @@
 # Ecommerce Product Recommendation System
 
-## Overview
+## Overview :
 This project builds a hybrid product recommendation system using
 Amazon Electronics reviews data.
 
-## Dataset
-- Source: Hugging Face
-- Dataset: gyoungjr/amazon-electronics-reviews
-- Domain: E-commerce
-- Feedback: Explicit ratings → implicit signals
+## Dataset :
+Source: Stanford SNAP Amazon Reviews (Electronics)
 
-## Project Structure
+## Day 1 :
+- Loaded raw JSON.gz review data
+- Converted into user–item interaction table
+- Performed sanity checks

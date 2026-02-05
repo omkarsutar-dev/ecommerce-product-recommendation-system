@@ -17,3 +17,8 @@ Source: Stanford SNAP Amazon Reviews (Electronics)
 - Removed cold users/items
 - Converted ratings to implicit feedback
 - Performed time-based train/test split
+
+## Day 3:
+- Implemented popularity-based recommender
+- Built user-based collaborative filtering
+- Evaluated models using Recall@K
